@@ -7,12 +7,12 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Large%20Orange%20Diamond.png" alt="Large Orange Diamond" width="15" height="15" /> SUMÁRIO
-+ [Objetivo do Repositório](https://github.com/MateusSouzadel/Meu_Caminho_de_Aprendizado_em_Python/edit/main/README.md#-objetivo-do-repositório)
-+ [Documentação da Evolução](https://github.com/MateusSouzadel/Meu_Caminho_de_Aprendizado_em_Python/edit/main/README.md#-documentação-da-evolução)
-+ [Bibliotecas e Ferramentas Utilizadas](https://github.com/MateusSouzadel/Meu_Caminho_de_Aprendizado_em_Python/edit/main/README.md#-bibliotecas-e-ferramentas-utilizadas)
-+ [Aprendizado Contínuo](https://github.com/MateusSouzadel/Meu_Caminho_de_Aprendizado_em_Python/edit/main/README.md#-aprendizado-contínuo)
-+ [Feedback](https://github.com/MateusSouzadel/Meu_Caminho_de_Aprendizado_em_Python/edit/main/README.md#-feedback)
-+ [Autor](https://github.com/MateusSouzadel/Meu_Caminho_de_Aprendizado_em_Python/edit/main/README.md#-autor-mateussouzadel)
++ [Objetivo do Repositório](#-objetivo-do-repositório)
++ [Documentação da Evolução](#-documentação-da-evolução)
++ [Bibliotecas e Ferramentas Utilizadas](#-bibliotecas-e-ferramentas-utilizadas)
++ [Aprendizado Contínuo](#-aprendizado-contínuo)
++ [Feedback](#-feedback)
++ [Autor](#-autor-mateussouzadel)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Large%20Orange%20Diamond.png" alt="Large Orange Diamond" width="15" height="15" /> OBJETIVO DO REPOSITÓRIO
 
