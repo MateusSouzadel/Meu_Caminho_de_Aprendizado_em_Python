@@ -36,4 +36,9 @@ Se você tiver algum feedback ou sugestão, ficarei muito grato em receber! Por 
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Large%20Orange%20Diamond.png" alt="Large Orange Diamond" width="15" height="15" /> AUTOR: [@MateusSouzadel](https://github.com/MateusSouzadel/Python)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmsouzadl&style=social&label=%40msouzadl&link=https%3A%2F%2Fx.com%2Fmsouzadl)
+
+<p>
+ <a href="https://www.linkedin.com/in/m-souzadl/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+</p>
 
