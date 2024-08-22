@@ -2,6 +2,7 @@
 
  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyOTIwODAsIm5iZiI6MTcyNDI5MTc4MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIyVDAxNTYyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2MjEzNzdjMjA2NDQyNzQyNjg2YWNkZThlZThkMzU0MzVlNzZiNDM3NGE2Mzg3Y2VlNDAyMDVhMTgyODkwZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Rp7z8Cljf3g1Q2j5CQW42tELtzZu1X8GDCUnxrSMKn0" width="500px" />
 
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" width="25px" /> &nbsp;Iniciativa em Python&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" width="25px" />
 
 </div>
@@ -36,9 +37,11 @@ Se você tiver algum feedback ou sugestão, ficarei muito grato em receber! Por 
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Large%20Orange%20Diamond.png" alt="Large Orange Diamond" width="15" height="15" /> AUTOR: [@MateusSouzadel](https://github.com/MateusSouzadel/Python)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmsouzadl&style=social&label=%40msouzadl&link=https%3A%2F%2Fx.com%2Fmsouzadl)
 
-<p>
+<p align="center">
  <a href="https://www.linkedin.com/in/m-souzadl/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+ <a href="https://x.com/msouzadl" title="X"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+ <a href="https://github.com/MateusSouzadel" title="github"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+ <a href="https://www.instagram.com/m.souzadl/" title="instagram"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
